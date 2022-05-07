@@ -1,0 +1,16 @@
+•	Sprint: Sprint, no framework Scrum, é um período de tempo limitado a um mês ou menos, no qual uma versão incremental e usável de um produto é desenvolvida.
+
+•	Product backlog: O product backlog faz parte da estrutura de desenvolvimento Scrum, e é ligado diretamente ao Product Owner (PO), responsável por sua criação, conteúdo, disponibilidade e priorização
+
+•	Sprint planning: O planejamento do sprint é um evento no scrum que inicia o sprint.
+
+•	Sprint backlog: Basicamente, o Sprint Backlog é uma lista de atividades que precisam ser feitas durante uma Sprint.
+
+•	Daily Meeting:A famosa Daily Scrum, também conhecida por Reuniões diárias, Daily Meeting, Stand-Up Meeting, Daily Stand-Up ou até mesmo Scrum Diário é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar
+
+•	Sprint review: O principal objetivo da Sprint Review é validar as entregas da equipe e verificar se os critérios estabelecidos no planejamento foram executados
+
+•	Sprint Retrospective: a Retrospectiva do Sprint, ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é uma reunião normalmente de no máximo três horas para sprints de um mês. Para Sprints mais curtos, o evento geralmente também é mais curto.
+
+•	Scrum Master: O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum
+
