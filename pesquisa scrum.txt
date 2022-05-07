@@ -1,5 +1,8 @@
 •	Sprint: Sprint, no framework Scrum, é um período de tempo limitado a um mês ou menos, no qual uma versão incremental e usável de um produto é desenvolvida.
 
+
+oioiio
+
 •	Product backlog: O product backlog faz parte da estrutura de desenvolvimento Scrum, e é ligado diretamente ao Product Owner (PO), responsável por sua criação, conteúdo, disponibilidade e priorização
 
 •	Sprint planning: O planejamento do sprint é um evento no scrum que inicia o sprint.
@@ -12,5 +15,11 @@
 
 •	Sprint Retrospective: a Retrospectiva do Sprint, ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é uma reunião normalmente de no máximo três horas para sprints de um mês. Para Sprints mais curtos, o evento geralmente também é mais curto.
 
-•	Scrum Master: O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum
+•	Scrum Master: O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e prática 
 
+
+
+uhuhuhhohu9huh
+
+
+lmklmko
